@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escala de Trabalho - 31/10/2024</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.5;
+            margin: 20px;
+            background-color: #f4f4f9;
+        }
+        .container {
+            max-width: 1200px;
+            margin: auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            text-align: center;
+            color: #333;
+        }
+        .section {
+            margin-top: 20px;
+        }
+        .section h3 {
+            background-color: #0077b6;
+            color: #fff;
+            padding: 8px;
+            border-radius: 4px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #0077b6;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Escala de Trabalho</h1>
+        <p>Data: 31/10/2024</p>
+        <p>Programas: Gaveta Geral</p>
+        <p>Pauteiros: VIVIAN DE CASTRO</p>
+        <p>Equipe: RECADOS E ESCALA</p>
+
+        <div class="section">
+            <h2>ESCALA QUINTA-FEIRA (31/10/2024)</h2>
+            <h3>CHEFIAS</h3>
+            <table>
+                <tr><th>Função</th><th>Nome</th><th>Turno</th></tr>
+                <tr><td>Chefia de Redação</td><td>Lucimar Lescano</td><td>-</td></tr>
+                <tr><td>Chefia de Reportagem</td><td>Vivian de Castro</td><td>Manhã</td></tr>
+                <tr><td>Chefia de Reportagem</td><td>Aguinaldo Soares</td><td>Tarde</td></tr>
+                <!-- Mais linhas conforme necessário -->
+            </table>
+        </div>
+
+        <div class="section">
+            <h3>JORNAIS</h3>
+            <h4>Edição Bom Dia MS - Manhã</h4>
+            <table>
+                <tr><th>Função</th><th>Nome</th><th>Horário</th></tr>
+                <tr><td>Editora-Chefe (Apresentação)</td><td>Maureen Mattiello</td><td>-</td></tr>
+                <tr><td>Apresentadora Previsão do Tempo</td><td>Diulian Marques</td><td>05h às 13h</td></tr>
+                <tr><td>Editora (Ctrl Jornal)</td><td>Nadyenka Castro</td><td>04h30 às 12h30</td></tr>
+                <tr><td>Editora (Ctrl Link)</td><td>Juliene Katayama</td><td>05h30 às 13h30</td></tr>
+            </table>
+            <!-- Adicione mais tabelas para cada seção de jornal, conforme necessário -->
+        </div>
+
+        <div class="section">
+            <h3>Produção TV</h3>
+            <table>
+                <tr><th>Turno</th><th>Nome</th><th>Horário</th></tr>
+                <tr><td>Manhã</td><td>Kharina Prado</td><td>06h às 14h</td></tr>
+                <tr><td>Manhã</td><td>Amanda Raíssa</td><td>07h às 13h15</td></tr>
+                <tr><td>Manhã</td><td>Lidiane Rodrigues</td><td>07h30 às 13h45</td></tr>
+                <tr><td>Manhã</td><td>Mileny Rodrigues</td><td>07h30 às 12h30</td></tr>
+                <tr><td>Tarde</td><td>Ranziel Oliveira</td><td>13h às 19h15</td></tr>
+                <tr><td>Tarde</td><td>Ninfa Ribeiro</td><td>13h às 18h</td></tr>
+            </table>
+        </div>
+
+        <div class="section">
+            <h3>Reportagem Manhã</h3>
+            <table>
+                <tr><th>Equipe</th><th>Nome</th><th>Horário</th></tr>
+                <tr><td>Equipe 01</td><td>Giovanna, João Carlos, Erick</td><td>05h às 13h</td></tr>
+                <tr><td>Equipe 02</td><td>NC, Domingos</td><td>06h às 14h</td></tr>
+                <tr><td>Equipe 03</td><td>NC, Magno</td><td>05h30 às 13h30</td></tr>
+            </table>
+            <!-- Adicione mais equipes conforme necessário -->
+        </div>
+
+        <div class="section">
+            <h3>Equipe Técnica</h3>
+            <table>
+                <tr><th>Função</th><th>Nome</th><th>Horário</th></tr>
+                <tr><td>Editor de Imagem - BDMS</td><td>Regis</td><td>05h30 às 11h45</td></tr>
+                <tr><td>Editor de Imagem - Playout</td><td>Marina Ramos</td><td>05h30 às 11h45</td></tr>
+                <tr><td>Editor de Imagem - MS1</td><td>Rafael</td><td>06h30 às 12h45</td></tr>
+            </table>
+        </div>
+
+        <div class="section">
+            <h3>Folgas e Atestados</h3>
+            <table>
+                <tr><th>Motivo</th><th>Nome</th></tr>
+                <tr><td>Atestado</td><td>Dyego Queiroz</td></tr>
+                <tr><td>Atestado</td><td>Eduardo de Almeida</td></tr>
+                <tr><td>Atestado</td><td>Renata Barros</td></tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
